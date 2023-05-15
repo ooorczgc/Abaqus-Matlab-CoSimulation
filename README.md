@@ -6,7 +6,7 @@ Abaqus与MATLAB的联合仿真模型。
 
 我的学习笔记链接：
 
->→→→[【暂未公布】]()
+>→→→[【Abaqus有限元分析学习笔记（1）——Abaqus与Matlab联合仿真】](https://blog.csdn.net/ooorczgc/article/details/130447879?csdn_share_tail=%7B%22type%22%3A%22blog%22%2C%22rType%22%3A%22article%22%2C%22rId%22%3A%22130447879%22%2C%22source%22%3A%22ooorczgc%22%7D)
 
 我的CSDN主页链接：
 
